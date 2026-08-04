@@ -11,6 +11,13 @@ Veritasium, and Kurzgesagt.
   block-by-block script ("The Doorway Effect — Why You Forget Why You Walked Into a
   Room") written to that formula, ready for animated-explainer production (30 × 10s
   blocks, 16:9, 1080p).
+- [`docs/video-analysis-baseline.md`](docs/video-analysis-baseline.md) — scene-by-scene
+  analysis of the channel's existing course video (Ade's Customer Care College) as the
+  content baseline, mapped against the hook formula.
+- [`docs/script-tell-me-about-yourself.md`](docs/script-tell-me-about-yourself.md) — the
+  first niche-matched script: a full 5-minute, 30-block explainer ("'Tell Me About
+  Yourself' Is Not a Question") applying the formula to the channel's interview-prep
+  domain.
 
 ## Video production status
 
@@ -19,6 +26,12 @@ Seedance 2.0 at 1080p, 16:9, 10 seconds — a proof-of-concept for the flat-desi
 animated look:
 
 ▶️ [Doorway Effect — hook teaser (Seedance 2.0, 1080p)](https://d8j0ntlcm91z4.cloudfront.net/user_3HQjyxDNXirqhOhoxjvZqwJ7jMh/hf_20260804_023148_5c15b08d-fe26-4066-8a14-5013fa2c5df6.mp4)
+
+**Channel trailer rendered:** a 5-second flat-design teaser for the interview-prep
+series (the golden-spotlight motif from the "Tell Me About Yourself" script), generated
+with Seedance 2.0 Fast at 720p, 16:9:
+
+▶️ [Channel trailer — spotlight teaser (Seedance 2.0 Fast, 720p)](https://d8j0ntlcm91z4.cloudfront.net/user_3HQjyxDNXirqhOhoxjvZqwJ7jMh/hf_20260804_030335_08a173d5-e804-44ec-a400-d01e7a630d29.mp4)
 
 The full 5-minute render was not completed in this pass:
 Seedance 2.0 at 1080p costs ~90 credits per 10-second clip, and a 5-minute video (30
